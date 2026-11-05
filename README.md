@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying at SENA.
-- 💼 &nbsp; Seeking my first job experience in the field.
+- 💼 &nbsp; I work for Chiper.
 - 💭 &nbsp; Diving into web development, IT automation scripts, and data science. I want to learn many programming languages to become a backend developer.
 - 🍭 &nbsp; Reading and playing video games as hobbies.
 
